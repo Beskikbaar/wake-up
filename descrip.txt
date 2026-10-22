@@ -1,0 +1,1 @@
+es una aplicación de alarma diseñada para garantizar que realmente te levantes de la cama a tiempo. A diferencia de las alarmas convencionales donde basta con tocar un botón para apagar el sonido o posponer la alarma (snooze), wake up requiere un acto físico inevitable: escanear un código QR específico para desactivar el sonido.
